@@ -1,0 +1,22 @@
+methods
+	board
+	account
+check if setters should be removed
+chessPiece, access name from superclass (prolly use super keyword somehow)
+
+Github
+
+Chess
+	chessBoard
+	chessSquare
+	ValidMoves of Pieces
+
+Checkers Package
+XO Package
+Connect 4 Package
+
+GUI - Java FX
+
+Player vs Player
+
+Bots / Engines
