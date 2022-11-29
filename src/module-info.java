@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author omen
+ *
+ */
+module ChessGame {
+}
