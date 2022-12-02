@@ -6,11 +6,13 @@ public class Pawn extends ChessPiece{
 
 	public Pawn(String color, int[] coords) {
 		super(color, coords);
+		// TODO Auto-generated constructor stub
 	}
 
 	@Override
 	protected boolean validMove(Square start, Square end) {
 		boolean result = false;
+		// TODO Auto-generated method stub
 		if(end.getContent()==null) {
 			if(start.getCoords()[1] == end.getCoords()[1]) {
 				if(this.getColor() == "white") {
